@@ -2,7 +2,7 @@
 
 ![Walpaper javascript](https://www.wallpapertip.com/wmimgs/83-838195_javascript-javascript-hd.png)
 
-# Encontramos la mejor forma de entender instancias de javascript y que se a mejorado con las distintas actualizaciones {ecmascript}.
+# Encontramos la mejor forma de entender instancias de javascript y que se a mejorado con las distintas actualizaciones {ecmascript}
 
 - Ecmascript 6
 - Ecmascript 7
