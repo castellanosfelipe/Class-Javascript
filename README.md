@@ -22,5 +22,5 @@
 - Aprender primero javascript y despues typescript.
 
 
-# Made with ❤️ and javascript.
+# Made with ❤️ javascript  and typescript.
 
