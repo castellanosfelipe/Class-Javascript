@@ -1,6 +1,7 @@
 # Class-Javascript
 
-![Walpaper javascript](https://linguinecode.com/post/5-reasons-why-to-use-typescript)
+![Walpaper javascript]((https://www.wallpapertip.com/wmimgs/83-838195_javascript-javascript-hd.png))
+![Walpaper Typescript]((https://midu.dev/images/wallpapers/typescript-small-4k-wallpaper.png))
 
 # Encontramos la mejor forma de entender instancias de javascript y que se a mejorado con las distintas actualizaciones {ecmascript}
 
