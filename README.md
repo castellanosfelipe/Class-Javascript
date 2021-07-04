@@ -1,4 +1,4 @@
-# Class-Javascript
+# Class-examples-Javascript-and-typescript.
 
 ![Walpaper Fusion](https://www.filepicker.io/api/file/19uUx4kDS7ecP6YDadXg)
 
